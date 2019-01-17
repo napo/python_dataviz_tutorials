@@ -5,3 +5,4 @@ seaborn==0.8.1
 pandas==0.23.0
 sklearn==0.0
 lightgbm==2.2.2
+flexx==0.7.1
